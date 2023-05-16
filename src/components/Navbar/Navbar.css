@@ -1,0 +1,37 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar__logo {
+  height: 83px;
+  width: 290px;
+}
+
+.navbar__ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 33px;
+  width: 721px;
+}
+
+.navbar__li,
+a {
+  list-style: none;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.navbar__section-btn {
+  display: flex;
+  justify-content: space-around;
+  height: 61px;
+  width: 346px;
+
+}

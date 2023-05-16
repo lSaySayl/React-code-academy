@@ -1,0 +1,32 @@
+button {
+  height: 60px;
+  width: 160px;
+  border: none;
+  border-radius: 80px;
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 33px;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+}
+
+.login {
+  background-color: white;
+}
+
+
+.signup {
+  color: white;
+  background-color: #7fcdce;
+}
+
+.signup:hover {
+  border: 2px solid rgba(255, 255, 255, 0.473);
+}
+
+.join {
+  width: 190px;
+  color: white;
+  background-color: #7fcdce;
+}
