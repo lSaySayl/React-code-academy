@@ -1,0 +1,16 @@
+.button__card {
+  width: 283px;
+  height: 80px;
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 500;
+  color: white;
+  background: rgba(35, 189, 238, 0.9);
+  border-radius: 80px;
+}
+.button__card:hover {
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+
+
+}

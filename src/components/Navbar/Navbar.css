@@ -22,11 +22,22 @@ a {
   list-style: none;
   font-size: 22px;
   font-weight: 400;
+  text-align: center;
   letter-spacing: 0.02em;
+  padding: 10px;
   color: white;
   text-decoration: none;
   cursor: pointer;
+  width: 140px;
 }
+
+.navbar__li:hover {
+  transition: 0.3s ease-in-out;
+  border-radius: 10px;
+  padding: 10px;
+  background-color:#7fcdce ;
+}
+
 
 .navbar__section-btn {
   display: flex;

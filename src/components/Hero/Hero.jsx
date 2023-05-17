@@ -11,7 +11,7 @@ const Hero = () => {
               <span>Studying</span> Online is now much easier
             </h1>
             <p>
-              TOTC is an interesting platform that will teach you in more an
+              Code academy is an interesting platform that will teach you in more an
               interactive way
             </p>
             <section className="header__hero-btn">
