@@ -1,0 +1,11 @@
+.hero__two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 326px;
+  background-image: url("../../assets/herotwo.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}

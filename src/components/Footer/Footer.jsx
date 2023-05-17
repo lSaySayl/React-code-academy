@@ -21,7 +21,7 @@ const Footer = () => {
       <p>Privacy Policy</p>
       <p>Terms & Conditions</p>
       </section>
-      <span>© 2022. All rights reserved.</span>
+      <span>© 2023. All rights reserved.</span>
     </footer>
   );
 };
