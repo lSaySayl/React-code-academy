@@ -1,7 +1,7 @@
 # React-code-academy
 ## Code Academy 📒
 
-Este es un proyecto de React para practicar elementos de maquetación, router, useState, consumo y recorrido de archivos JSONS.
+Este es un proyecto de React para practicar elementos de maquetación (diseño tomado de figma), router, useState, consumo y recorrido de archivos JSONS.
 
 - Página de inicio (`Home`): Proporciona información sobre la academia code.
 
@@ -14,9 +14,6 @@ Este es un proyecto de React para practicar elementos de maquetación, router, u
 - Vista de los cursos con un filtro de "Game"
 
 ![courses](https://github.com/lSaySayl/React-code-academy/assets/105466130/a9b4531a-4986-4397-b4af-d4416edeb6fd)
-
-
-
 
 
 🚀 ¿Cómo iniciar el proyecto?
@@ -36,6 +33,12 @@ Para iniciar la aplicación, sigue los siguientes pasos:
 2️⃣: [React Router](https://reactrouter.com/) - Enrutador para aplicaciones de React.  
 3️⃣: [React Icons](https://react-icons.github.io/react-icons/) - Iconos personalizados para React.  
 4️⃣: [useState hook]
+
+🖍️ Diseño tomado de figma community:
+
+- https://www.figma.com/community/file/1207808022249149639
+
+
 
 👨‍💻 Contribuciones  
 
