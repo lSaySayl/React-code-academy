@@ -9,7 +9,7 @@ const CardCourse = ({image,time, title, description, instructor, price}) => {
     <section className="card__container">
       <img
         className="card__image"
-        src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&"
+        src={image}
       />
       <section className="card__container-upper">
         <section className="card__container-upper-internal">

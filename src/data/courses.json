@@ -6,7 +6,7 @@
         "instructor": "John Doe",
         "duration": "12 weeks",
         "price": 150,
-        "image": "path/course1_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseone.svg"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "instructor": "Jane Smith",
         "duration": "8 weeks",
         "price": 120,
-        "image": "path/course2_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursetwo.svg"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "instructor": "David Rodriguez",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course3_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursethree.svg"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "instructor": "Maria Lopez",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course4_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefour.svg"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "instructor": "Daniel Garcia",
         "duration": "8 weeks",
         "price": 200,
-        "image": "path/course5_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefive.svg"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "instructor": "Laura Torres",
         "duration": "10 weeks",
         "price": 150,
-        "image": "path/course6_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursesix.svg"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "instructor": "Carlos Ramirez",
         "duration": "6 weeks",
         "price": 120,
-        "image": "path/course7_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseseven.svg"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "instructor": "Sofia Gomez",
         "duration": "8 weeks",
         "price": 100,
-        "image": "path/course8_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseeight.svg"
     },
     {
         "id": 9,
@@ -78,7 +78,7 @@
         "instructor": "Luis Hernandez",
         "duration": "6 weeks",
         "price": 120,
-        "image": "path/course9_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseone.svg"
     },
     {
         "id": 10,
@@ -87,7 +87,7 @@
         "instructor": "Ana Torres",
         "duration": "12 weeks",
         "price": 180,
-        "image": "path/course10_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursetwo.svg"
     },
     {
         "id": 11,
@@ -96,7 +96,7 @@
         "instructor": "Miguel Silva",
         "duration": "8 weeks",
         "price": 150,
-        "image": "path/course11_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursethree.svg"
     },
     {
         "id": 12,
@@ -105,7 +105,7 @@
         "instructor": "Carolina Ruiz",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course12_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefour.svg"
     },
     {
         "id": 13,
@@ -114,7 +114,7 @@
         "instructor": "Fernando Gomez",
         "duration": "10 weeks",
         "price": 200,
-        "image": "path/course13_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefive.svg"
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "instructor": "Laura Sanchez",
         "duration": "6 weeks",
         "price": 120,
-        "image": "path/course14_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursesix.svg"
     },
     {
         "id": 15,
@@ -132,7 +132,7 @@
         "instructor": "Gabriel Morales",
         "duration": "8 weeks",
         "price": 100,
-        "image": "path/course15_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseseven.svg"
     },
     {
         "id": 16,
@@ -141,7 +141,7 @@
         "instructor": "Luisa Ramirez",
         "duration": "6 weeks",
         "price": 120,
-        "image": "path/course16_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseeight.svg"
     },
     {
         "id": 17,
@@ -150,7 +150,7 @@
         "instructor": "Daniel Morales",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course17_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseone.svg"
     },
     {
         "id": 18,
@@ -159,7 +159,7 @@
         "instructor": "Patricia Mendoza",
         "duration": "8 weeks",
         "price": 150,
-        "image": "path/course18_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursetwo.svg"
     },
     {
         "id": 19,
@@ -168,7 +168,7 @@
         "instructor": "Javier Hernandez",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course19_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursethree.svg"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "instructor": "Luis Torres",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course20_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefour.svg"
     },
     {
         "id": 21,
@@ -186,7 +186,7 @@
         "instructor": "Ana Martinez",
         "duration": "8 weeks",
         "price": 150,
-        "image": "path/course21_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefive.svg"
     },
     {
         "id": 22,
@@ -195,7 +195,7 @@
         "instructor": "Carlos Perez",
         "duration": "6 weeks",
         "price": 120,
-        "image": "path/course22_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursesix.svg"
     },
     {
         "id": 23,
@@ -204,7 +204,7 @@
         "instructor": "Laura Hernandez",
         "duration": "8 weeks",
         "price": 100,
-        "image": "path/course23_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseseven.svg"
     },
     {
         "id": 24,
@@ -213,7 +213,7 @@
         "instructor": "Daniel Gonzalez",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course24_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseeight.svg"
     },
     {
         "id": 25,
@@ -222,7 +222,7 @@
         "instructor": "Patricia Ramirez",
         "duration": "6 weeks",
         "price": 150,
-        "image": "path/course25_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseone.svg"
     },
     {
         "id": 26,
@@ -231,7 +231,7 @@
         "instructor": "Gabriel Rodriguez",
         "duration": "8 weeks",
         "price": 120,
-        "image": "path/course26_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursetwo.svg"
     },
     {
         "id": 27,
@@ -240,7 +240,7 @@
         "instructor": "Fernanda Silva",
         "duration": "10 weeks",
         "price": 200,
-        "image": "path/course27_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursethree.svg"
     },
     {
         "id": 28,
@@ -249,7 +249,7 @@
         "instructor": "Carolina Torres",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course28_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefour.svg"
     },
     {
         "id": 29,
@@ -258,7 +258,7 @@
         "instructor": "Miguel Gomez",
         "duration": "8 weeks",
         "price": 120,
-        "image": "path/course29_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefive.svg"
     },
     {
         "id": 30,
@@ -267,7 +267,7 @@
         "instructor": "Luisa Torres",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course30_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursesix.svg"
     },
     {
         "id": 31,
@@ -276,7 +276,7 @@
         "instructor": "Andrea Torres",
         "duration": "12 weeks",
         "price": 200,
-        "image": "path/course31_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseseven.svg"
     },
     {
         "id": 32,
@@ -285,7 +285,7 @@
         "instructor": "Carlos Sanchez",
         "duration": "8 weeks",
         "price": 150,
-        "image": "path/course32_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseeight.svg"
     },
     {
         "id": 33,
@@ -294,7 +294,7 @@
         "instructor": "Laura Ramirez",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course33_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseone.svg"
     },
     {
         "id": 34,
@@ -303,7 +303,7 @@
         "instructor": "Juan Hernandez",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course34_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursetwo.svg"
     },
     {
         "id": 35,
@@ -312,7 +312,7 @@
         "instructor": "Maria Silva",
         "duration": "8 weeks",
         "price": 120,
-        "image": "path/course35_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursethree.svg"
     },
     {
         "id": 36,
@@ -321,7 +321,7 @@
         "instructor": "Fernando Rodriguez",
         "duration": "12 weeks",
         "price": 200,
-        "image": "path/course36_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefour.svg"
     },
     {
         "id": 37,
@@ -330,7 +330,7 @@
         "instructor": "Luisa Hernandez",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course37_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefive.svg"
     },
     {
         "id": 38,
@@ -339,7 +339,7 @@
         "instructor": "Gabriel Gomez",
         "duration": "8 weeks",
         "price": 150,
-        "image": "path/course38_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursesix.svg"
     },
     {
         "id": 39,
@@ -348,7 +348,7 @@
         "instructor": "Miguel Torres",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course39_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseseven.svg"
     },
     {
         "id": 40,
@@ -357,7 +357,7 @@
         "instructor": "Carolina Sanchez",
         "duration": "6 weeks",
         "price": 120,
-        "image": "path/course40_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseeight.svg"
     },
     {
         "id": 41,
@@ -366,7 +366,7 @@
         "instructor": "Andrés Torres",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course41_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseone.svg"
     },
     {
         "id": 42,
@@ -375,7 +375,7 @@
         "instructor": "Ana Sanchez",
         "duration": "8 weeks",
         "price": 150,
-        "image": "path/course42_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursetwo.svg"
     },
     {
         "id": 43,
@@ -384,7 +384,7 @@
         "instructor": "Carlos Ramirez",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course43_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursethree.svg"
     },
     {
         "id": 44,
@@ -393,7 +393,7 @@
         "instructor": "Laura Hernandez",
         "duration": "8 weeks",
         "price": 120,
-        "image": "path/course44_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefour.svg"
     },
     {
         "id": 45,
@@ -402,7 +402,7 @@
         "instructor": "Juan Silva",
         "duration": "6 weeks",
         "price": 100,
-        "image": "path/course45_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursefive.svg"
     },
     {
         "id": 46,
@@ -411,7 +411,7 @@
         "instructor": "Maria Torres",
         "duration": "12 weeks",
         "price": 200,
-        "image": "path/course46_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursesix.svg"
     },
     {
         "id": 47,
@@ -420,7 +420,7 @@
         "instructor": "Fernando Sanchez",
         "duration": "8 weeks",
         "price": 150,
-        "image": "path/course47_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseseven.svg"
     },
     {
         "id": 48,
@@ -429,7 +429,7 @@
         "instructor": "Luisa Ramirez",
         "duration": "10 weeks",
         "price": 180,
-        "image": "path/course48_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseeight.svg"
     },
     {
         "id": 49,
@@ -438,7 +438,7 @@
         "instructor": "Miguel Torres",
         "duration": "6 weeks",
         "price": 120,
-        "image": "path/course49_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/courseone.svg"
     },
     {
         "id": 50,
@@ -447,6 +447,6 @@
         "instructor": "Carolina Sanchez",
         "duration": "12 weeks",
         "price": 200,
-        "image": "path/course50_image.png"
+        "image": "https://raw.githubusercontent.com/lSaySayl/React-code-academy/270a90141c1daebd2b72cc81555ea1fb7f590629/src/assets/coursetwo.svg"
     }
 ]
