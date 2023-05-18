@@ -1,0 +1,27 @@
+.container__error {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background: linear-gradient(90deg, #136cb5 0%, #49bbbd 100%);
+}
+
+.container__error h1 {
+    font-size: 300px;
+    color: white;
+}
+
+.container__error p {
+    font-weight: 600;
+    font-size: 40px;
+    color: rgba(255, 255, 255, 0.456);
+}
+
+.container__error button {
+    margin-top: 40px;
+}
+
+.container__error button a {
+    color: black;
+}
