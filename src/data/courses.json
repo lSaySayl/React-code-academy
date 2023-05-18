@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "course_name": "Complete Web Development",
+        "description": "Learn to create web applications from scratch",
+        "instructor": "John Doe",
+        "duration": "12 weeks",
+        "price": 150,
+        "image": "path/course1_image.png"
+    },
+    {
+        "id": 2,
+        "course_name": "User Interface Design",
+        "description": "Explore the best practices of interface design",
+        "instructor": "Jane Smith",
+        "duration": "8 weeks",
+        "price": 120,
+        "image": "path/course2_image.png"
+    },
+    {
+        "id": 3,
+        "course_name": "Strategic Digital Marketing",
+        "description": "Learn to plan and execute digital marketing strategies",
+        "instructor": "David Rodriguez",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course3_image.png"
+    },
+    {
+        "id": 4,
+        "course_name": "Advanced Professional Photography",
+        "description": "Master advanced techniques of professional photography",
+        "instructor": "Maria Lopez",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course4_image.png"
+    },
+    {
+        "id": 5,
+        "course_name": "Introduction to Machine Learning",
+        "description": "Discover the fundamental concepts of machine learning",
+        "instructor": "Daniel Garcia",
+        "duration": "8 weeks",
+        "price": 200,
+        "image": "path/course5_image.png"
+    },
+    {
+        "id": 6,
+        "course_name": "Game Design",
+        "description": "Learn to create and develop your own video games",
+        "instructor": "Laura Torres",
+        "duration": "10 weeks",
+        "price": 150,
+        "image": "path/course6_image.png"
+    },
+    {
+        "id": 7,
+        "course_name": "Agile Project Management",
+        "description": "Apply agile methodologies for efficient project management",
+        "instructor": "Carlos Ramirez",
+        "duration": "6 weeks",
+        "price": 120,
+        "image": "path/course7_image.png"
+    },
+    {
+        "id": 8,
+        "course_name": "Computer Networks",
+        "description": "Learn about networks and their configuration",
+        "instructor": "Sofia Gomez",
+        "duration": "8 weeks",
+        "price": 100,
+        "image": "path/course8_image.png"
+    },
+    {
+        "id": 9,
+        "course_name": "Social Media Marketing",
+        "description": "Discover the best social media marketing strategies",
+        "instructor": "Luis Hernandez",
+        "duration": "6 weeks",
+        "price": 120,
+        "image": "path/course9_image.png"
+    },
+    {
+        "id": 10,
+        "course_name": "Mobile App Development",
+        "description": "Learn to create mobile apps for iOS and Android",
+        "instructor": "Ana Torres",
+        "duration": "12 weeks",
+        "price": 180,
+        "image": "path/course10_image.png"
+    },
+    {
+        "id": 11,
+        "course_name": "User Experience Design",
+        "description": "Learn to create exceptional user experiences",
+        "instructor": "Miguel Silva",
+        "duration": "8 weeks",
+        "price": 150,
+        "image": "path/course11_image.png"
+    },
+    {
+        "id": 12,
+        "course_name": "Persuasive Copywriting",
+        "description": "Master the techniques of persuasive writing",
+        "instructor": "Carolina Ruiz",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course12_image.png"
+    },
+    {
+        "id": 13,
+        "course_name": "Web Development with React",
+        "description": "Learn to develop web applications using React",
+        "instructor": "Fernando Gomez",
+        "duration": "10 weeks",
+        "price": 200,
+        "image": "path/course13_image.png"
+    },
+    {
+        "id": 14,
+        "course_name": "SEO and Web Positioning",
+        "description": "Optimize your website for search engines",
+        "instructor": "Laura Sanchez",
+        "duration": "6 weeks",
+        "price": 120,
+        "image": "path/course14_image.png"
+    },
+    {
+        "id": 15,
+        "course_name": "Introduction to Cybersecurity",
+        "description": "Discover the fundamentals of cybersecurity",
+        "instructor": "Gabriel Morales",
+        "duration": "8 weeks",
+        "price": 100,
+        "image": "path/course15_image.png"
+    },
+    {
+        "id": 16,
+        "course_name": "Content Marketing",
+        "description": "Learn to create effective content marketing strategies",
+        "instructor": "Luisa Ramirez",
+        "duration": "6 weeks",
+        "price": 120,
+        "image": "path/course16_image.png"
+    },
+    {
+        "id": 17,
+        "course_name": "Mobile App Development with Flutter",
+        "description": "Create cross-platform mobile apps with Flutter",
+        "instructor": "Daniel Morales",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course17_image.png"
+    },
+    {
+        "id": 18,
+        "course_name": "Digital Product Design",
+        "description": "Learn to design user-centered digital products",
+        "instructor": "Patricia Mendoza",
+        "duration": "8 weeks",
+        "price": 150,
+        "image": "path/course18_image.png"
+    },
+    {
+        "id": 19,
+        "course_name": "Web Analytics",
+        "description": "Use data to optimize your website's performance",
+        "instructor": "Javier Hernandez",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course19_image.png"
+    },
+    {
+        "id": 20,
+        "course_name": "Game Development with Unity",
+        "description": "Learn to create your own games with the Unity engine",
+        "instructor": "Luis Torres",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course20_image.png"
+    },
+    {
+        "id": 21,
+        "course_name": "Applied Artificial Intelligence in Medicine",
+        "description": "Discover how artificial intelligence is transforming the field of medicine",
+        "instructor": "Ana Martinez",
+        "duration": "8 weeks",
+        "price": 150,
+        "image": "path/course21_image.png"
+    },
+    {
+        "id": 22,
+        "course_name": "Project Management with Scrum",
+        "description": "Learn to implement the Scrum methodology for agile project management",
+        "instructor": "Carlos Perez",
+        "duration": "6 weeks",
+        "price": 120,
+        "image": "path/course22_image.png"
+    },
+    {
+        "id": 23,
+        "course_name": "Influencer Marketing",
+        "description": "Discover how to use influencer marketing to promote your business",
+        "instructor": "Laura Hernandez",
+        "duration": "8 weeks",
+        "price": 100,
+        "image": "path/course23_image.png"
+    },
+    {
+        "id": 24,
+        "course_name": "Mobile App Development with React Native",
+        "description": "Create cross-platform mobile applications with React Native",
+        "instructor": "Daniel Gonzalez",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course24_image.png"
+    },
+    {
+        "id": 25,
+        "course_name": "Accessible Digital Product Design",
+        "description": "Learn to design accessible digital products for all people",
+        "instructor": "Patricia Ramirez",
+        "duration": "6 weeks",
+        "price": 150,
+        "image": "path/course25_image.png"
+    },
+    {
+        "id": 26,
+        "course_name": "Advanced Cybersecurity",
+        "description": "Explore advanced techniques in cybersecurity",
+        "instructor": "Gabriel Rodriguez",
+        "duration": "8 weeks",
+        "price": 120,
+        "image": "path/course26_image.png"
+    },
+    {
+        "id": 27,
+        "course_name": "Web Development with Angular",
+        "description": "Learn to develop web applications using the Angular framework",
+        "instructor": "Fernanda Silva",
+        "duration": "10 weeks",
+        "price": 200,
+        "image": "path/course27_image.png"
+    },
+    {
+        "id": 28,
+        "course_name": "Copywriting for Social Media",
+        "description": "Create persuasive content for your social media platforms",
+        "instructor": "Carolina Torres",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course28_image.png"
+    },
+    {
+        "id": 29,
+        "course_name": "Introduction to Big Data",
+        "description": "Discover the fundamental concepts of Big Data and its analysis",
+        "instructor": "Miguel Gomez",
+        "duration": "8 weeks",
+        "price": 120,
+        "image": "path/course29_image.png"
+    },
+    {
+        "id": 30,
+        "course_name": "Game Development with Unreal Engine",
+        "description": "Create your own games with the Unreal Engine",
+        "instructor": "Luisa Torres",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course30_image.png"
+    },
+    {
+        "id": 31,
+        "course_name": "Mobile App Development with Kotlin",
+        "description": "Learn to create mobile applications using the Kotlin language",
+        "instructor": "Andrea Torres",
+        "duration": "12 weeks",
+        "price": 200,
+        "image": "path/course31_image.png"
+    },
+    {
+        "id": 32,
+        "course_name": "Video Content Marketing",
+        "description": "Create content marketing strategies using video as the main format",
+        "instructor": "Carlos Sanchez",
+        "duration": "8 weeks",
+        "price": 150,
+        "image": "path/course32_image.png"
+    },
+    {
+        "id": 33,
+        "course_name": "Introduction to Python Programming",
+        "description": "Learn the basic concepts of programming using the Python language",
+        "instructor": "Laura Ramirez",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course33_image.png"
+    },
+    {
+        "id": 34,
+        "course_name": "Mobile App Interface Design",
+        "description": "Learn to design intuitive and attractive interfaces for mobile applications",
+        "instructor": "Juan Hernandez",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course34_image.png"
+    },
+    {
+        "id": 35,
+        "course_name": "E-commerce: How to Start Your Online Store",
+        "description": "Discover the fundamental steps to launch and manage your own online store",
+        "instructor": "Maria Silva",
+        "duration": "8 weeks",
+        "price": 120,
+        "image": "path/course35_image.png"
+    },
+    {
+        "id": 36,
+        "course_name": "Web Development with Django",
+        "description": "Learn to develop web applications using the Django framework",
+        "instructor": "Fernando Rodriguez",
+        "duration": "12 weeks",
+        "price": 200,
+        "image": "path/course36_image.png"
+    },
+    {
+        "id": 37,
+        "course_name": "Local SEO: Increase the Visibility of Your Business in Your Area",
+        "description": "Optimize your online presence to stand out in local searches",
+        "instructor": "Luisa Hernandez",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course37_image.png"
+    },
+    {
+        "id": 38,
+        "course_name": "Cybersecurity for Businesses",
+        "description": "Protect your company's infrastructure and data from cyber threats",
+        "instructor": "Gabriel Gomez",
+        "duration": "8 weeks",
+        "price": 150,
+        "image": "path/course38_image.png"
+    },
+    {
+        "id": 39,
+        "course_name": "Mobile App Development with Xamarin",
+        "description": "Create cross-platform mobile applications with the Xamarin framework",
+        "instructor": "Miguel Torres",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course39_image.png"
+    },
+    {
+        "id": 40,
+        "course_name": "UX Writing: Writing for Digital Experiences",
+        "description": "Learn to write effective texts to enhance the user experience",
+        "instructor": "Carolina Sanchez",
+        "duration": "6 weeks",
+        "price": 120,
+        "image": "path/course40_image.png"
+    },
+    {
+        "id": 41,
+        "course_name": "Web Development with Ruby on Rails",
+        "description": "Learn to develop web applications using the Ruby on Rails framework",
+        "instructor": "Andrés Torres",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course41_image.png"
+    },
+    {
+        "id": 42,
+        "course_name": "Social Media Marketing Strategies",
+        "description": "Discover the best strategies to promote your business on social media",
+        "instructor": "Ana Sanchez",
+        "duration": "8 weeks",
+        "price": 150,
+        "image": "path/course42_image.png"
+    },
+    {
+        "id": 43,
+        "course_name": "Introduction to Game Development",
+        "description": "Learn the basic concepts of game development",
+        "instructor": "Carlos Ramirez",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course43_image.png"
+    },
+    {
+        "id": 44,
+        "course_name": "Web Interface Design for Applications",
+        "description": "Learn to design modern and attractive interfaces for web applications",
+        "instructor": "Laura Hernandez",
+        "duration": "8 weeks",
+        "price": 120,
+        "image": "path/course44_image.png"
+    },
+    {
+        "id": 45,
+        "course_name": "Fundamentals of Digital Marketing",
+        "description": "Learn the fundamentals of digital marketing and how to apply them to your business",
+        "instructor": "Juan Silva",
+        "duration": "6 weeks",
+        "price": 100,
+        "image": "path/course45_image.png"
+    },
+    {
+        "id": 46,
+        "course_name": "Mobile App Development with Swift",
+        "description": "Learn to create mobile applications using the Swift language",
+        "instructor": "Maria Torres",
+        "duration": "12 weeks",
+        "price": 200,
+        "image": "path/course46_image.png"
+    },
+    {
+        "id": 47,
+        "course_name": "Affiliate Marketing",
+        "description": "Discover how to generate income through affiliate marketing",
+        "instructor": "Fernando Sanchez",
+        "duration": "8 weeks",
+        "price": 150,
+        "image": "path/course47_image.png"
+    },
+    {
+        "id": 48,
+        "course_name": "Web Development with Vue.js",
+        "description": "Learn to develop web applications using the Vue.js framework",
+        "instructor": "Luisa Ramirez",
+        "duration": "10 weeks",
+        "price": 180,
+        "image": "path/course48_image.png"
+    },
+    {
+        "id": 49,
+        "course_name": "Search Engine Marketing (SEM)",
+        "description": "Optimize your search engine advertising campaigns for better results",
+        "instructor": "Miguel Torres",
+        "duration": "6 weeks",
+        "price": 120,
+        "image": "path/course49_image.png"
+    },
+    {
+        "id": 50,
+        "course_name": "Game Development with Godot",
+        "description": "Create your own games with the Godot engine",
+        "instructor": "Carolina Sanchez",
+        "duration": "12 weeks",
+        "price": 200,
+        "image": "path/course50_image.png"
+    }
+]
